@@ -1,1 +1,1 @@
-# WebService Universite Gustave Eiffel
+# Gustave Eiffel University web service project
